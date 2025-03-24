@@ -3,14 +3,15 @@
   // for the documentation about the launch.json format
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "run",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/bin/${workspaceFolderBasename}",
+      "program": "/Desktop/tp0/client/bin/cliente",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "${workspaceFolder}",
+      "cwd": "/Desktop/tp0/client",
       "environment": [],
       "externalConsole": false,
       "linux": {

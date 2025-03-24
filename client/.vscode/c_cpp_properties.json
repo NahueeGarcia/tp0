@@ -5,7 +5,7 @@
     {
       "name": "Linux",
       "includePath": [
-        "${workspaceFolder}/src"
+        "$/Desktop/tp0/client/src"
       ],
       "defines": [],
       "compilerPath": "/usr/bin/gcc",
